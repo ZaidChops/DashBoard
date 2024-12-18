@@ -8,7 +8,7 @@ const Sidebar = () => {
         Dashboard
       </a>
       <a href="/courses" className="text-2xl ml-0  py-2 text-center text-white">
-      Courses
+      Coursessssssss
       </a>
       <a href="/enquiryForm" className="text-2xl ml-0 py-2 text-center text-white">
       EnquiryForm
